@@ -1,4 +1,4 @@
-# MADE BY - ALPHA BABY
+# MADE BY - TOXIC BABY
 
 class Helper(object):
     HELP_M = '''```
@@ -27,7 +27,7 @@ class Helper(object):
 
 ❍ /ask [ǫυєʀʏ] : sєᴧʀᴄʜ ᴛʜє ᴧηʏ ᴛʏᴘє ǫυєsᴛɪση
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -42,7 +42,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ʜɪɴᴅɪ sᴏɴɢs```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
     HELP_03 = '''```
@@ -50,14 +50,14 @@ class Helper(object):
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
 ```
- єxᴧϻᴘʟє : @Candyy_music_robot @III_BADNAM_BABY_lll I love You 😘
+ єxᴧϻᴘʟє : @ytcmusic_bot @lll_TOXICC_PAPA_lll I love You 😘
 ```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
 
 **❍ /tts : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll) **
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll) **
 '''
 
 
@@ -70,7 +70,7 @@ class Helper(object):
 ❍ /groupinfo : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ ɪηғσ `ᴇx :- /groupinfo ɢʀᴏᴜᴘ ᴜsᴇʀɴᴀᴍᴇ`
 ❍ /status : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ sᴛᴧᴛᴜs
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -81,9 +81,9 @@ class Helper(object):
 
 ❍ /font [ᴛєxᴛ]**
 ```
-❖ єxᴧϻᴘʟє : /font badnam Baby```
+❖ єxᴧϻᴘʟє : /font Toxic Baby```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll) **
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll) **
 '''
 
     HELP_06 = '''```
@@ -91,7 +91,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -106,7 +106,7 @@ class Helper(object):
 ❍ /shayari ➠ ʀᴧηᴅσϻ sʜᴧʏᴧʀɪ ᴛᴧɢ 
 ❍ /shstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -115,9 +115,9 @@ class Helper(object):
 **❍ /couples ➠ ᴜsє ᴛʜɪs ᴄσϻϻᴧηᴅ ᴧηᴅ sєє ɢʀσᴜᴘs ᴄσᴜᴘʟєs.
 ❍ /wish ➠ ᴜsє ᴛʜɪs ᴄσϻϻᴧηᴅ ᴧηᴅ sєє ɢʀσᴜᴘs ᴄσᴜᴘʟєs.
 ❍ /cute ➠ ᴄʜєᴄᴋ ʏσυʀ ᴄυᴛєηєss.
-❍ /love ➠ ᴧᴅᴅ ᴛᴡᴏ ηᴧϻєs ᴧηᴅ sєє ʟσᴠᴇ ᴘσssɪʙɪʟɪᴛʏ !! `ʟɪᴋᴇ ʀᴧᴊᴧ + sσηᴧ.`
+❍ /love ➠ ᴧᴅᴅ ᴛᴡᴏ ηᴧϻєs ᴧηᴅ sєє ʟσᴠᴇ ᴘσssɪʙɪʟɪᴛʏ !! `ʟɪᴋᴇ ᴛᴏxɪᴄ + ᴋɪᴛᴛᴜ.`
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -131,7 +131,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -139,11 +139,11 @@ class Helper(object):
 ❖ sᴛɪᴄᴋєʀs ᴄσϻϻᴧηᴅꜱ ❖```
 **❍ /packkang ➠ ᴄʀєᴧᴛєs ᴧ ᴘᴧᴄᴋ σғ sᴛɪᴄᴋєʀs ғʀσϻ ᴧ σᴛʜєʀ ᴘᴧᴄᴋ
 ❍ /stickerid ➠ ɢєᴛs ᴛʜє sᴛɪᴄᴋєʀ ɪᴅ σғ ᴧ sᴛɪᴄᴋєʀ
-❍ /mmf ➠ ʀєᴘʟʏ ᴧηʏ ᴘɪᴄ & ɢɪᴠє ᴛєxᴛ `єx :- /mmf badnam`
+❍ /mmf ➠ ʀєᴘʟʏ ᴧηʏ ᴘɪᴄ & ɢɪᴠє ᴛєxᴛ `єx :- /mmf toxic`
 ❍ /kang ➠ ʀєᴘʟʏ ᴧηʏ sᴛɪᴄᴋєʀ & ᴄʀєᴀᴛє ʏσᴜʀ sᴛɪᴄᴋєʀ ᴘᴧᴄᴋ
 ❍ /st ➠ ғɪηᴅ ᴏʀɪɢɪηᴧʟ sᴛɪᴄᴋєʀ.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -161,7 +161,7 @@ class Helper(object):
 ❍ /truth [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ]
 ❍ /dare : [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -172,7 +172,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -184,7 +184,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -229,7 +229,7 @@ class Helper(object):
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
     HELP_15 = '''```
@@ -238,7 +238,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -255,7 +255,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -285,7 +285,7 @@ class Helper(object):
 ❍ /unbanall ➠ ᴜηʙᴧη ᴧʟʟ ʙᴧη ϻєϻʙєʀs
 ❍ /unpinall ➠ ᴜηᴘɪη ᴧʟʟ ᴘɪη ᴍєssᴧɢᴇ**
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -295,7 +295,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -307,7 +307,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -318,7 +318,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -333,7 +333,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -344,21 +344,21 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞𓆪](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞𓆪](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
     HELP_23 = '''```
 ❖ sᴧηɢ ϻᴧᴛᴧ ᴄσϻϻᴧηᴅ ❖```
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/KRITI_UPDATE)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/KITTUU_UPDATES)**
 '''
 
     HELP_24 = '''```
 ❖ ᴛʀᴧηsʟᴧᴛєs ❖```
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -367,9 +367,9 @@ class Helper(object):
 **❍ /git ➠ ғɪηᴅ ʀєᴘᴏ ɢɪᴛ ᴜsєʀηᴧϻє
 ❍ /allrepo ➠ sєє ᴧʟʟ ʀєᴘᴏ ᴛʜʀσᴜɢʜ ɢɪᴛ ᴜsєʀηᴧϻє**
 
-`єxᴧϻᴘʟє : /git TEAMKRITI`
+`єxᴧϻᴘʟє : /git TOXICPAPA00`
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -380,7 +380,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
     HELP_PROMOTION = '''
 **─────────────────────────
@@ -397,12 +397,12 @@ class Helper(object):
 ─────────────────────────
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+ ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє...
 ─────────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)
+❍ ᴄσηᴛᴧᴄᴛ - [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)
 ─────────────────────────**
 '''
     HELP_ABOUT = '''
 **─────────────────────────
-│ ᴡєʟᴄσϻє ᴛσ ˹[˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ ˹[˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)˼ ʙσᴛ sᴛᴧᴛυs │
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
