@@ -19,7 +19,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", -1002584168578))
 OWNER_ID = int(getenv("OWNER_ID", 7995626429))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/toxicpapa00/opmusic",)
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/spambotscoder/PARIMUSIC",)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
@@ -29,8 +29,8 @@ API_KEY = getenv("API_KEY", 'NxGBNexGenBots790d34') # youtube song api key, gene
 
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kittuu_updates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+xxpR_3jfLFhkYjNl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/shona_bots")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+cpc-CeRmKTBiMWI1")
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION", "9999999"))
