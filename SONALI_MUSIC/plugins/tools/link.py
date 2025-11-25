@@ -1,4 +1,4 @@
-from SONALI_MUSIC.core.client import app
+from SONALI_MUSIC import app
 from pyrogram import filters
 from pyrogram.errors import ChatAdminRequired
 
